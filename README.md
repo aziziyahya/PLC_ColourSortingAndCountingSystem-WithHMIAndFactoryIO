@@ -8,7 +8,7 @@
 [![Language: Ladder Logic (LAD)](https://img.shields.io/badge/Language-Ladder%20Logic%20(LAD)-blue.svg)]()
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-green.svg)](LICENSE)
 
-> Developed by **Nik Mohamad Azizi Nik Yahya** for **TIA Portal Programming Level 1 (TIA-PRO1)**, Bachelor of Technology (B.Tech) in Industrial Electronic Automation, Faculty of Electronic Engineering Technology, Universiti Malaysia Perlis (UniMAP).
+> Developed by **Nik Mohamad Azizi Bin Nik Yahya** for **TIA Portal Programming Level 1 (TIA-PRO1)**, Bachelor of Technology (B.Tech) in Industrial Electronic Automation, Faculty of Electronic Engineering Technology, Universiti Malaysia Perlis (UniMAP).
 
 ---
 
