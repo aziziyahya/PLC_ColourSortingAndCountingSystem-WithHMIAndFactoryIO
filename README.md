@@ -274,7 +274,7 @@ The human-machine interface is engineered for ergonomic single-screen supervisor
 ## 📁 Repository Structure
 
 ```
-PLC_AutomatedModularProduction WithSiemensAndFesto/
+PLC_AutomatedModularProduction-WithSiemensAndFesto/
 ├── assets/                                 # High-resolution architectural figures & HMI captures
 │   ├── factoryio_cell_overview.png         # Full 3D Factory I/O digital twin cell layout
 │   ├── factoryio_control_panel.png         # Physical control cabinet & digital LED displays
