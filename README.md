@@ -1,4 +1,4 @@
-# 🏭 Automated Industrial Colour Counting & Sorting Machine
+# 🏭 Colour Sorting & Counting System with HMI & Factory I/O
 
 [![Platform: Siemens TIA Portal](https://img.shields.io/badge/Platform-Siemens%20TIA%20Portal%20v16%20%2F%20v21-006487.svg)](https://new.siemens.com/)
 [![PLC: SIMATIC S7-1500](https://img.shields.io/badge/PLC-SIMATIC%20S7--1516--3%20PN%2FDP-009999.svg)]()
