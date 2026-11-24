@@ -325,6 +325,13 @@ PLC_AutomatedModularProduction-WithSiemensAndFesto/
 
 ## 🚀 How to Open & Simulate
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/aziziyahya/PLC_AutomatedModularProduction-WithSiemensAndFesto.git
+cd PLC_AutomatedModularProduction-WithSiemensAndFesto
+```
+
 ### Prerequisites
 - **Siemens TIA Portal v16** (or higher, e.g., TIA Portal v21) with **STEP 7 Professional** & **WinCC Basic**
 - **Siemens S7-PLCSIM**
